@@ -1,0 +1,10 @@
+langchain
+langchain-core
+langchain-deepseek
+pydantic
+python-dotenv
+langgraph
+langchain-community
+wikipedia
+tavily-python
+typing-extensions
